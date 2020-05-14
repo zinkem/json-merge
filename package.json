@@ -1,0 +1,19 @@
+{
+  "name": "json-merge",
+  "version": "0.1.0",
+  "description": "merge json objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [
+    "merge",
+    "json",
+    "objects"
+  ],
+  "author": "Matthew Zinke",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
